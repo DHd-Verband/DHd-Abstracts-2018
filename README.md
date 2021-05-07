@@ -46,9 +46,9 @@ All the pre-processing scripts as well as the scripts for the automatic upload a
 
 # See also contributions of all other DHd-Conferences:
 
-- DHd2014: https://github.com/PatrickHelling/DHd-Abstracts-2014
-- DHd2015: https://github.com/PatrickHelling/DHd-Abstracts-2015
-- DHd2016: https://github.com/PatrickHelling/DHd-Abstracts-2016
-- DHd2017: https://github.com/PatrickHelling/DHd-Abstracts-2017
-- DHd2019: https://github.com/PatrickHelling/DHd-Abstracts-2019
-- DHd2020: https://github.com/PatrickHelling/DHd-Abstracts-2020
+- DHd2014: https://github.com/DHd-Verband/DHd-Abstracts-2014
+- DHd2015: https://github.com/DHd-Verband/DHd-Abstracts-2015
+- DHd2016: https://github.com/DHd-Verband/DHd-Abstracts-2016
+- DHd2017: https://github.com/DHd-Verband/DHd-Abstracts-2017
+- DHd2019: https://github.com/DHd-Verband/DHd-Abstracts-2019
+- DHd2020: https://github.com/DHd-Verband/DHd-Abstracts-2020
