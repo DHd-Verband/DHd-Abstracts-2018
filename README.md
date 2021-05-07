@@ -1,6 +1,6 @@
 # DHd-Abstracts-2018
 
-Contributions to the 5th DHd-Conference "Kritik der digitalen Vernunft" 2018 at the University of Cologne, 26 February - 2 March 2028
+Contributions to the 5th DHd-Conference "Kritik der digitalen Vernunft" 2018 at the University of Cologne, 26 February - 2 March 2018
 
 Conference-Webite: https://dhd2018.uni-koeln.de/
 
